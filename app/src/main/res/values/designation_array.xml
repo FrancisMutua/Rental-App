@@ -1,0 +1,8 @@
+<resources>
+    <array name="house_array">
+        <item>House 1</item>
+        <item>House 2</item>
+        <item>House 3</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>
